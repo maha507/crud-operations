@@ -1,19 +1,7 @@
 <script>
   import { onMount } from "svelte";
  
-
-
-
- 
   let dataGrid;
- 
-
-  
-
-  
-
-  
-
 
   async function fetchData()  {
 
